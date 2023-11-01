@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+  53612	   1896	   1528	  57036	   decc	perfcount.elf
